@@ -1,5 +1,5 @@
 # Astron---An-AI-Assistant
-<h5>JARVIS is your AI assistant with Voice recognition, natural language processing, and task automation. Get organized and simplify tasks. Contribute to our open-source project!</h5> <b>#Python #AIAssistant</b>
+<h5>Astron is your AI assistant with Voice recognition, natural language processing, and task automation. Get organized and simplify tasks. Contribute to our open-source project!</h5> <b>#Python #AIAssistant</b>
 
 Instructions for working on Astron AI
 
